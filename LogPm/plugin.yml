@@ -1,0 +1,6 @@
+name: LogPm
+version: 1.0
+main: CrackzNovitch\LogPm\Main
+author: CrackzNovitch
+description:  Blabla
+api: [1.6.0]
